@@ -22,7 +22,9 @@ HEADER
 */
 
 header {
+    padding: 10px 15px;
     background-color: white;
+    margin-bottom: 50px;
 }
 
 h1 {
@@ -37,10 +39,36 @@ header img, header h1 {
 MAIN
 */
 .container {
-    background-color: white;
+    margin: 0 auto;
+    width: 75%;
+
     
 }
 
 #buttons {
-    margin-top: 30px;
+    margin-bottom: 2px;
+    background-color: white;
+    padding: 20px 40px;
+}
+
+#add-task {
+    padding: 4px 8px;
+    border-radius: 4px;
+    color: white;
+    border: 1px solid;
+    background-color: #47ADF1;
+
+}
+
+#add-section {
+    padding: 4px 8px;
+    border-radius: 4px;
+    color: #878787;
+    border: 1px solid #878787;
+    background-color: white;
+}
+
+.list {
+    background-color: white;
+    padding: 20px 40px;
 }
