@@ -72,3 +72,32 @@ MAIN
     background-color: white;
     padding: 20px 40px;
 }
+
+ul {
+    list-style: none;
+    padding-left: 20px;
+}
+
+.first-li {
+    margin-bottom: 20px;
+}
+
+.check {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border: 1px solid;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+}
+
+.done {
+    color: green;
+    border-color: green;  
+}
+
+.not-done {
+    color: red;
+    border-color: red;
+}
