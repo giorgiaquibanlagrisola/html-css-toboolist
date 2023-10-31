@@ -101,3 +101,36 @@ ul {
     color: red;
     border-color: red;
 }
+
+.tag {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    font-size: 0.8em;
+}
+
+.editorial {
+    background-color: #47ADF1;
+}
+
+.q1-goals {
+    background-color: #8780BD;
+}
+
+.recruiting {
+    background-color: #3DB58E;
+}
+
+.mobile {
+    background-color: #F9B724;
+}
+
+.website {
+    background-color: #C1559D;
+}
+
+.sales {
+    background-color: #B2D34E;
+}
